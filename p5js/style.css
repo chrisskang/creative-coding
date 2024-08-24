@@ -1,0 +1,47 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+#title {
+  font-family: 'Circular-Bold';
+  font-size: 60px;
+  color: #000;
+
+}
+
+
+
+
+@font-face {
+  font-family: "Circular-Black";
+  src: url("./Fonts/CircularXXWebTrial-Black.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Circular-Bold";
+  src: url("./Fonts/CircularXXWebTrial-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Circular-Medium";
+  src: url("./Fonts/CircularXXWebTrial-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Circular-Regular";
+  src: url("./Fonts/CircularXXWebTrial-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Circular-Book";
+  src: url("./Fonts/CircularXXWebTrial-Book.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Circular-Light";
+  src: url("./Fonts/CircularXXWebTrial-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Circular-Thin";
+  src: url("./Fonts/CircularXXWebTrial-Thin.woff2") format("woff2");
+}
+
